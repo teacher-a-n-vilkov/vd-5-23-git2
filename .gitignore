@@ -1,0 +1,36 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.bak
+*~
+
+# Build artifacts
+build/
+dist/
+target/
+*.log
+*.tmp
+*.class
+*.jar
+*.war
+*.exe
+*.dll
+*.obj
+*.o
+*.pyc
+
+# Dependencies
+node_modules/
+vendor/
+
+# Environment variables
+.env
+.env.*
+
+# Personal files (e.g., local configuration)
+logs/*
