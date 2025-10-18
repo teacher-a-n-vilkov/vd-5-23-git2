@@ -33,4 +33,4 @@ vendor/
 .env.*
 
 # Personal files (e.g., local configuration)
-logs/*
+logs/
